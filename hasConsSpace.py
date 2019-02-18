@@ -23,3 +23,5 @@ n = len(testString)
 for i in range(0,n):
 	if (hasConsSpaces(testString, i)):
 		print(howManySpaces(testString,i))
+
+#comment
